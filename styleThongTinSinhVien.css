@@ -1,0 +1,38 @@
+#ctl00_ctl00_contentPane_MainPanel_MainContent_lbT3 {
+    font-size:14px;
+    font-family:Times New Roman;
+    color:red;
+    font-weight:bold
+} 
+#ctl00_ctl00_contentPane_MainPanel_MainContent_lbT2{
+    font-size:14px;
+    font-family:Times New Roman;
+    color:red;
+    font-weight:bold
+}
+#ctl00_ctl00_contentPane_MainPanel_MainContent_lbt1{
+    font-size:14px;
+    font-family:Times New Roman;
+    color:red;
+    font-weight:bold
+}
+.MainContent{
+    font-size:14px;
+    font-family:Times New Roman;
+    color:red;
+    font-weight:bold
+}
+strong{
+    font-size:14px;
+    font-family:Times New Roman;
+    font-style:italic
+}
+#ctl00_ctl00_contentPane_MainPanel_MainContent_lbTextInfo1{
+    font-size:14px;
+    font-family:Times New Roman;
+    font-weight:bold
+}
+#ctl00_ctl00_contentPane_MainPanel_MainContent_UserImageCPanel_imgUserImage{
+    width:200px; 
+    box-shadow:30px 30px 30px rgb(22, 22, 22)
+}
